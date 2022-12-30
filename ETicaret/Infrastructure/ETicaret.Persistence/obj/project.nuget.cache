@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kPPp5Zs7GmS2VeuoyEQpCPP0eUHqrVDutRhM2iVfK7Kj+lCStrqw1PMZm+42nLsDJPPJWdtonuCDFtkLm0N2GA==",
+  "dgSpecHash": "5oMKu7hnXExqt7YE1GEyz1G4g4hbqTfYE66IAJP94pIklZA1nW30WeFDP8jewysUdrnEocMQpS4ktlXsqvvVkw==",
   "success": true,
-  "projectFilePath": "C:\\Funda\\Projects\\Arge\\ETicaretUygulamasi\\ETicaret\\Infrastructure\\ETicaret.Persistence\\ETicaret.Persistence.csproj",
+  "projectFilePath": "C:\\Funda\\Projects\\Arge\\ETicaretUygulamasi\\ETicaretUygulamasi\\ETicaret\\Infrastructure\\ETicaret.Persistence\\ETicaret.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emars\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",

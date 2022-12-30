@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lVX86oiCHHywzRMQKkYpFkqNFVPjgRMx8qWB/nYVysUlPZQDCq25ONBkozdpKn5p6/SGDcEC8EikbkMKqVTyrg==",
+  "dgSpecHash": "tWQ+rUMXlUr7ZHKdUTpRTtm0fwtMaW/oxSypf2/bZQ0Q3/4ggk4U7pHvvapl8ntynirG6Cr/WYNOvA9FUdDegA==",
   "success": true,
-  "projectFilePath": "C:\\Funda\\Projects\\Arge\\ETicaretUygulamasi\\ETicaret\\Presentation\\ETicaret.API\\ETicaret.API.csproj",
+  "projectFilePath": "C:\\Funda\\Projects\\Arge\\ETicaretUygulamasi\\ETicaretUygulamasi\\ETicaret\\Presentation\\ETicaret.API\\ETicaret.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emars\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\emars\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
